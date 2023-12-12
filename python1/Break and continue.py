@@ -5,4 +5,3 @@ for i in range(7,15):
     if(i==13):
         break
     print("5 X", (i+1),  "=" , 5*(i+1))
-    
